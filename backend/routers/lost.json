@@ -1,0 +1,48 @@
+{
+    "objets_perdus": [
+      {
+        "description": "Sac à dos noir avec des poches rouges et des zips argentés. À l'intérieur, il y a un portefeuille marron, des clés de voiture et un chargeur de téléphone de type C. Une étiquette intérieure porte le nom 'Ahmed'.",
+        "email": "etudiant1@etudient.utunis.tn",
+        "localisation": {
+          "lieu": "Bloc Prepa"
+        }
+      },
+      {
+        "description": "Montre métallique avec bracelet en acier inoxydable et cadran argenté. Le côté droit du cadran présente une rayure visible. Pas de marque évidente.",
+        "email": "etudiant2@etudient.utunis.tn",
+        "localisation": {
+          "lieu": "Amphi P1"
+        }
+      },
+      {
+        "description": "Carnet de notes bleu A5, avec des pages de brouillons manuscrits. Un autocollant de l'Université de Tunis sur la couverture. Le carnet est usé et les coins sont abîmés.",
+        "email": "etudiant3@etudient.utunis.tn",
+        "localisation": {
+          "lieu": "Département de l'informatique"
+        }
+      },
+      {
+        "description": "Lunettes de soleil avec monture noire en plastique et verres légèrement teintés. Aucun étui n'est fourni. Trouvées près des escaliers de l'entrée principale.",
+        "email": "etudiant4@etudient.utunis.tn",
+        "localisation": {
+          "lieu": "Entrée principale"
+        }
+      },
+      {
+        "description": "Porte-clé en cuir marron avec plusieurs clés, dont une clé de voiture et une clé de porte. Un petit logo argenté est visible sur le porte-clé. Trouvé dans le hall du Département de Biologie, près des casiers.",
+        "email": "etudiant5@etudient.utunis.tn",
+        "localisation": {
+          "lieu": "Département de Biologie"
+        }
+      },
+      {
+        "description": "Téléphone portable noir de marque Samsung Galaxy A52 sans coque de protection. L'écran est fissuré au coin inférieur gauche. Trouvé sur une table dans l'Amphi A.",
+        "email": "etudiant6@etudient.utunis.tn",
+        "localisation": {
+          "lieu": "Amphi A"
+        }
+      }
+    ]
+  }
+  
+  

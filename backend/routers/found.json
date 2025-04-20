@@ -1,0 +1,49 @@
+{
+    "objets_perdus_trouves": [
+      {
+        "description": "Sac à dos noir de marque X, avec une poche avant rouge et des zips argentés. À l'intérieur, il y a un portefeuille marron, des clés de voiture, et un chargeur de téléphone de type C. Le sac a une étiquette intérieure avec le nom 'Ahmed'.",
+        "email": "etudiant1@etudient.utunis.tn",
+        "localisation": {
+          "lieu": "Bloc Prepa"
+        }
+      },
+      {
+        "description": "Montre métallique avec un bracelet en acier inoxydable. Le cadran est de couleur argentée avec des chiffres noirs. Il y a une rayure visible sur le côté droit du cadran. Aucune marque visible.",
+        "email": "etudiant2@etudient.utunis.tn",
+        "localisation": {
+          "lieu": "Amphi P1"
+        }
+      },
+      {
+        "description": "Carnet de notes bleu de format A5, contenant plusieurs pages de brouillons manuscrits. Il y a un autocollant de l'Université de Tunis sur la couverture. Le carnet est usé, avec les coins un peu abîmés.",
+        "email": "etudiant3@etudient.utunis.tn",
+        "localisation": {
+          "lieu": "Département de l'informatique"
+        }
+      },
+      {
+        "description": "Lunettes de soleil avec monture noire en plastique. Les verres sont légèrement teintés. Aucun étui n'est présent. Trouvées près des escaliers de l'entrée principale.",
+        "email": "etudiant4@etudient.utunis.tn",
+        "localisation": {
+          "lieu": "Entrée principale"
+        }
+      },
+      {
+        "description": "Porte-clé avec plusieurs clés attachées, dont une clé de voiture et une clé de porte. Le porte-clé est en cuir marron avec un petit logo argenté. Trouvé dans le hall du Département de Biologie, près des casiers.",
+        "email": "etudiant5@etudient.utunis.tn",
+        "localisation": {
+          "lieu": "Département de Biologie"
+        }
+      },
+      {
+        "description": "Téléphone portable noir de marque Samsung, modèle Galaxy A52, sans coque de protection. L'écran est légèrement fissuré au coin inférieur gauche. Trouvé sur la table dans l'Amphi A.",
+        "email": "etudiant6@etudient.utunis.tn",
+        "localisation": {
+          "lieu": "Amphi A"
+        }
+      }
+    ]
+  }
+  
+  
+  

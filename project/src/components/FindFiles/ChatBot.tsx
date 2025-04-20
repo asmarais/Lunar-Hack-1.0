@@ -46,15 +46,14 @@ const ChatBot: React.FC = () => {
     setInputText('');
     setIsTyping(true);
 
-    // API call to the backend to get chatbot response
     try {
-      const response = await axios.post('http://localhost:8000/path', {
-        query: inputText,
+      const response = await axios.post('http://localhost:8000/procedure', {
+        question: inputText,
       });
 
       const botMessage: Message = {
         id: (Date.now() + 1).toString(),
-        text: response.data.result,
+        text: response.data.chatbot_response,
         sender: 'bot',
         timestamp: new Date(),
       };
@@ -120,7 +119,7 @@ const ChatBot: React.FC = () => {
           </button>
         </div>
         <div className="mt-2 text-xs text-gray-500">
-          <p>Ou est département informatique?"</p>
+          <p>Try: "Le procédure pour l'inscription"</p>
         </div>
       </div>
     </div>
